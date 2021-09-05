@@ -3,7 +3,7 @@
 - Bridge: É a rede default do Docker, utilizado para comunicação entre containers.
 - Host: Remove o isolamento de rede, o container responde diretamente pela placa de rede do host.
 - Overlay: Permite a comunicação entre containers de hosts diferentes.
-- Macvlan: Permite atribuir um endereço MAC ao container tornando ele visível como um dispositivo 
+- Macvlan: Permite atribuir um endereço MAC ao container tornando ele visível como um dispositivo
 físico na rede.
 - None: Sem rede.
 
